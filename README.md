@@ -14,9 +14,12 @@
 
 </div>
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=Dojeto&color=brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=Dojeto.Dojeto)
 
+</div>
 <h2></h2>
 <a href="https://github.com/Dojeto/github-readme-activity-graph"><img alt="Om's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dojeto&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
