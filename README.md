@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dojeto/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dojeto&layout=compact&theme=tokyonight"/></a>
+<a href=""><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dojeto&layout=compact&theme=tokyonight"/></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dojeto&theme=tokyonight" alt="Dojeto" />
 <br/>
 
