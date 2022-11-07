@@ -7,8 +7,7 @@
 <h2>  ● Github Stats </h2> 
 
 <div align="center">
-
-<a href=""><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dojeto&layout=compact&theme=tokyonight"/></a>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dojeto&layout=compact&theme=tokyonight"/>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dojeto&theme=tokyonight" alt="Dojeto" />
 <br/>
 
