@@ -2,7 +2,7 @@
 <h1>ʜᴇʏ ᴛʜᴇʀᴇ ɪ'ᴍ ᴏᴍ ʟɪᴍᴅɪᴡᴀʟᴀ ~ </h1> 
 </div>
 
-<h2> ● Full Stack Web-Developer || Game Developer - Unreal Engine </h2> 
+<h2> ● Full Stack Web-Developer || Game Developer</h2> 
 
 <h2>  ● Github Stats </h2> 
 
